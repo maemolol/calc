@@ -1,0 +1,10 @@
+# ninja log v5
+3	1612	7398330324625878	calc_autogen/timestamp	9e1c1ec1d508061a
+3	1612	7398330324625878	calc_autogen/mocs_compilation.cpp	9e1c1ec1d508061a
+3	1612	7398330324625878	C:/Users/mark/Documents/calc/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/calc_autogen/timestamp	9e1c1ec1d508061a
+3	1612	7398330324625878	C:/Users/mark/Documents/calc/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/calc_autogen/mocs_compilation.cpp	9e1c1ec1d508061a
+1613	6393	7398330372097707	CMakeFiles/calc.dir/button.cpp.obj	20680e0de5c004d1
+1629	6401	7398330372615482	CMakeFiles/calc.dir/main.cpp.obj	124422b6afd21845
+1619	6403	7398330373836200	CMakeFiles/calc.dir/calc_autogen/mocs_compilation.cpp.obj	127b584c0bc75731
+1624	7261	7398330382671018	CMakeFiles/calc.dir/mainwindow.cpp.obj	237cbdf9e804aaed
+7261	7641	7398330386396234	calc.exe	3934f4067cf24809

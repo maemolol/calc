@@ -13,3 +13,12 @@
 10	230	7395415765276296	C:/Users/mark/Documents/calc/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/calc_autogen/mocs_compilation.cpp	9f5c8004d1889531
 251	3179	7395415794756419	CMakeFiles/calc.dir/main.cpp.obj	3d7685fdfd71c0f4
 3180	3766	7395415800559995	calc.exe	ac2e0fc890ffaa59
+32	1094	7398329199594222	calc_autogen/timestamp	9f5c8004d1889531
+32	1094	7398329199594222	calc_autogen/mocs_compilation.cpp	9f5c8004d1889531
+32	1094	7398329199594222	C:/Users/mark/Documents/calc/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/calc_autogen/timestamp	9f5c8004d1889531
+32	1094	7398329199594222	C:/Users/mark/Documents/calc/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/calc_autogen/mocs_compilation.cpp	9f5c8004d1889531
+1100	5258	7398329242238643	CMakeFiles/calc.dir/button.cpp.obj	ec2c5e986db2900d
+1110	5275	7398329242389468	CMakeFiles/calc.dir/main.cpp.obj	3d7685fdfd71c0f4
+1096	5279	7398329242419489	CMakeFiles/calc.dir/calc_autogen/mocs_compilation.cpp.obj	ef2156cb3171351c
+1105	5301	7398329242676179	CMakeFiles/calc.dir/mainwindow.cpp.obj	207089dc982e7b01
+5301	5941	7398329249009810	calc.exe	ac2e0fc890ffaa59
